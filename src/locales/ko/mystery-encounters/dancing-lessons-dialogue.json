@@ -17,7 +17,7 @@
     },
     "3": {
       "label": "댄스를 보여준다",
-      "tooltip": "(-) {{oricorioName}}에게 댄스 기술을 가르침. \n(+) {{oricorioName}}[[가]] 당신을 좋아함.",
+      "tooltip": "(-) {{oricorioName}}에게 춤 기술을 가르침. \n(+) {{oricorioName}}[[가]] 매우 기뻐함.",
       "disabled_tooltip": "당신의 포켓몬이 댄스 기술을 알아야 합니다.",
       "select_prompt": "사용할 댄스 기술을 선택합니다.",
       "selected": "{{oricorioName}}[[가]] {{selectedPokemon}}[[를]] 선보이는 모습을\n흥미진진하게 지켜봅니다!$마음에 들어하는 것 같아요!$@s{level_up_fanfare}{{oricorioName}}[[가]] 멤버가 되고 싶어합니다!"
