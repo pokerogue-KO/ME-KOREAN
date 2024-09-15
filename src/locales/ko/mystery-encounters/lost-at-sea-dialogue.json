@@ -1,28 +1,28 @@
 {
-  "intro": "Wandering aimlessly through the sea, you've effectively gotten nowhere.",
-  "title": "Lost at Sea",
-  "description": "The sea is turbulent in this area, and you're running out of energy.\nThis is bad. Is there a way out of the situation?",
-  "query": "What will you do?",
+  "intro": "목표없이 바다를 헤메다보니, 정말로 당신은 아무 데도 갈 수 없게 되었다.",
+  "title": "바다 위의 미아",
+  "description": "이 지역의 바다는 난기류다. 그리고 당신은 에너지가 부족한 상태다.\n난감한 상황이다. 이 상황을 벗어날 수 있는 방법이 있을까?",
+  "query": "어떻게 하시겠습니까?",
   "option": {
     "1": {
-      "label": "{{option1PrimaryName}} Might Help",
-      "label_disabled": "Can't {{option1RequiredMove}}",
-      "tooltip": "(+) {{option1PrimaryName}} saves you\n(+) {{option1PrimaryName}} gains some EXP",
-      "tooltip_disabled": "You have no Pokémon to {{option1RequiredMove}} on",
-      "selected": "{{option1PrimaryName}} swims ahead, guiding you back on track.${{option1PrimaryName}} seems to also have gotten stronger in this time of need!"
+      "label": "{{option1PrimaryName}}의 도움",
+      "label_disabled": "{{option1RequiredMove}} 사용 불가",
+      "tooltip": "(+) {{option1PrimaryName}}[[가]] 당신을 구함\n(+) {{option1PrimaryName}} 경험치 획득",
+      "tooltip_disabled": "{{option1RequiredMove}}[[를]] 사용할 수 있는 포켓몬이 없다.",
+      "selected": "{{option1PrimaryName}}[[가]] 앞장서 헤엄치며, 돌아가는 길을 안내했다.${{option1PrimaryName}}[[는]] 역시 이번 기회로 더 강해진 것 같다!"
     },
     "2": {
-      "label": "{{option2PrimaryName}} Might Help",
-      "label_disabled": "Can't {{option2RequiredMove}}",
-      "tooltip": "(+) {{option2PrimaryName}} saves you\n(+) {{option2PrimaryName}} gains some EXP",
-      "tooltip_disabled": "You have no Pokémon to {{option2RequiredMove}} with",
-      "selected": "{{option2PrimaryName}} flies ahead of your boat, guiding you back on track.${{option2PrimaryName}} seems to also have gotten stronger in this time of need!"
+      "label": "{{option2PrimaryName}}의 도움",
+      "label_disabled": "{{option2RequiredMove}} 사용 불가",
+      "tooltip": "(+) {{option2PrimaryName}}[[가]] 당신을 구함\n(+) {{option2PrimaryName}} 경험치 획득",
+      "tooltip_disabled": "{{option2RequiredMove}}[[를]] 사용할 수 있는 포켓몬이 없다.",
+      "selected": "{{option2PrimaryName}}[[가]] 보트 앞에서 날아가며, 돌아가는 길을 안내했다.${{option2PrimaryName}}[[는]] 이번 기회로 더 강해진 것 같다!"
     },
     "3": {
-      "label": "Wander Aimlessly",
-      "tooltip": "(-) Each of your Pokémon lose {{damagePercentage}}% of their total HP",
-      "selected": "You float about in the boat, steering without direction until you finally spot a landmark you remember.$You and your Pokémon are fatigued from the whole ordeal."
+      "label": "목표없이 방황한다",
+      "tooltip": "(-) 모든 포켓몬의 HP가 {{damagePercentage}}%만큼 감소했다.",
+      "selected": "마침내 기억하는 랜드매크를 발견할 때까지, 당신은 정처없이 배를 조종하며 떠돌아다닌다.$포켓몬과 당신은 거대한 시련에 지쳐버렸다."
     }
   },
-  "outro": "You are back on track."
+  "outro": "당신은 다시 길 위로 돌아왔다."
 }
