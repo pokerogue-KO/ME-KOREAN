@@ -7,21 +7,21 @@
     "1": {
       "label": "싸운다",
       "tooltip": "(-) 어려운 배틀\n(+) 바톤 획득",
-      "selected": "{{oricorioName}}[[는]] 혼란스러워하며 방어하기 위해 움직입니다!",
-      "boss_enraged": "{{oricorioName}}[[는]] 겁에 질려 능력치가 상승했습니다!"
+      "selected": "{{oricorioName}}[[는]] 혼란스러워하며 방어하기 위해 움직였다!",
+      "boss_enraged": "{{oricorioName}}[[는]] 겁에 질려 능력치가 상승했다!"
     },
     "2": {
-      "label": "댄스를 배운다",
+      "label": "춤을 배운다",
       "tooltip": "(+) 포켓몬에게 잠재댄스를 가르친다",
-      "selected": "{{oricorioName}}이 춤추는 모습을 가까이서 관찰합니다….$@s{level_up_fanfare}당신의 {{selectedPokemon}}[[는]] {{oricorioName}}에게 배웠다!"
+      "selected": "{{oricorioName}}가 춤을 추는 모습을 주의 깊게 지켜보았다….$@s{level_up_fanfare}{{selectedPokemon}}[[는]] {{oricorioName}}에게서 춤을 배웠다!"
     },
     "3": {
-      "label": "댄스를 보여준다",
+      "label": "춤을 보여준다",
       "tooltip": "(-) {{oricorioName}}에게 춤 기술을 가르침. \n(+) {{oricorioName}}[[가]] 매우 기뻐함.",
-      "disabled_tooltip": "당신의 포켓몬이 댄스 기술을 알아야 합니다.",
-      "select_prompt": "사용할 댄스 기술을 선택합니다.",
-      "selected": "{{oricorioName}}[[가]] {{selectedPokemon}}[[를]] 선보이는 모습을\n흥미진진하게 지켜봅니다!$마음에 들어하는 것 같아요!$@s{level_up_fanfare}{{oricorioName}}[[가]] 멤버가 되고 싶어합니다!"
+      "disabled_tooltip": "포켓몬이 춤 기술을 알고 있어야 한다.",
+      "select_prompt": "사용할 춤 기술을 선택한다.",
+      "selected": "{{oricorioName}}[[가]] {{selectedPokemon}}[[를]] 선보이는 모습을\n흥미진진하게 지켜본다!$마음에 들어하는 것 같다!$@s{level_up_fanfare}{{oricorioName}}[[가]] 동료가 되고 싶어 하는 것 같다!"
     }
   },
-  "invalid_selection": "이 포켓몬은 댄스 기술을 알고 있지 않습니다."
+  "invalid_selection": "이 포켓몬은 춤 기술을 모른다!"
 }
