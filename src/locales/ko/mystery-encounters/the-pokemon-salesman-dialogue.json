@@ -1,10 +1,10 @@
 {
-  "intro": "건장한 노신사가 다가왔다.",
+  "intro": "쾌활한 노신사가 다가왔다.",
   "speaker": "신사",
   "intro_dialogue": "거기, 안녕하신가! 자네에게 좋은 거래를 제안하지!",
   "title": "포켓몬 상인",
-  "description": "\"이 {{purchasePokemon}}[[는]] 매우 독특하며 같은 종에서는 쉽게 볼 수 없는 특성을 갖고 있지! 나는 이 좋은 {{purchasePokemon}}[[를]] 자네에게 {{price, money}}에 보내고 싶다네!\"\n\n\"어떻게 생각하시오?\"",
-  "description_shiny": "\"이 {{purchasePokemon}} 매우 독특하며 같은 종에서는 쉽게 볼 수 없는 색을 갖고 있지! 나는 이 좋은 {{purchasePokemon}}[[를]] 자네에게 {{price, money}}에 보내고 싶다네!\"\n\n\"어떻게 생각하시오?\"",
+  "description": "\"이 {{purchasePokemon}}[[는]] 매우 독특하며 같은 종에서는 쉽게 볼 수 없는 특성을 갖고 있지! 나는 이 좋은 {{purchasePokemon}}[[를]] 자네에게 {{price, money}}에 보내고 싶다네!\"\n\n\"어떻게 생각하는가?\"",
+  "description_shiny": "\"이 {{purchasePokemon}} 매우 독특하며 같은 종에서는 쉽게 볼 수 없는 색을 갖고 있지! 나는 이 좋은 {{purchasePokemon}}[[를]] 자네에게 {{price, money}}에 보내고 싶다네!\"\n\n\"어떻게 생각하는가?\"",
   "query": "어떻게 하시겠습니까?",
   "option": {
     "1": {
