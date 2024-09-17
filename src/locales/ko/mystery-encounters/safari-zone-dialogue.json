@@ -7,7 +7,7 @@
     "1": {
       "label": "들어간다",
       "tooltip": "(-) {{option1Money, money}} 지불\n@[SUMMARY_GREEN]{(?) 사파리존 입장}",
-      "selected": "넌 내꺼야!"
+      "selected": "행운을 시험할 시간입니다!"
     },
     "2": {
       "label": "떠난다",
